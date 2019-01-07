@@ -1,0 +1,11 @@
+[Breakpoints]
+Bp0=_ "STD_CODE" "Code:0x007B" 0 0 0 0 "" 0 ""
+Count=1
+[ChipconEmu]
+Stop timers on halt=0
+Leave target running=1
+[Aliases]
+A0=_ "E:\Zigbee\胜达电子模板代码之捕捉805.12.4协议\LED\Main.c" ""
+A1=_ "E:\Zigbee\胜达电子模板代码之捕捉805.12.4协议\LED\SD_Drive.c" ""
+Count=2
+SuppressDialog=1

@@ -1,0 +1,61 @@
+[DebugChecksum]
+Checksum=1070148525
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[InterruptLog]
+LogEnabled=0
+SumEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=1
+SumSortOrder=0
+[Interrupts]
+Enabled=1
+[MemoryMap]
+Enabled=0
+Base=0
+UseAuto=0
+TypeViolation=1
+UnspecRange=1
+ActionState=1
+[TraceHelper]
+Enabled=0
+ShowSource=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Bp0=_ "STD_CODE" "Code:0x007B" 0 0 0 0 "" 0 ""
+Bp1=_ "STD_CODE" "{$PROJ_DIR$\SD_Drive.c}.60.13@1" 1 0 0 0 "" 0 ""
+Count=2
+[ChipconEmu]
+Stop timers on halt=0
+Leave target running=1
+[Aliases]
+A0=_ "C:\Users\Tiger\Desktop\接收20181025\LED\74LS164_8LED.c" ""
+A1=_ "C:\Users\Tiger\Desktop\接收20181025\LED\Main.c" "C:\Users\Tiger\Desktop\接收20181025\Main.c"
+A2=_ "C:\Users\Tiger\Desktop\接收20181025\Main.c" ""
+A3=_ "C:\Users\Tiger\Desktop\接收20181025\SD_Drive.c" ""
+A4=_ "E:\Zigbee\胜达电子模板代码之捕捉805.12.4协议\LED\Main.c" ""
+A5=_ "E:\Zigbee\胜达电子模板代码之捕捉805.12.4协议\LED\SD_Drive.c" ""
+Count=6
+SuppressDialog=0
